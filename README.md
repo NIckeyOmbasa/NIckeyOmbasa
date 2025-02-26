@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIckeyOmbasa
-- 👀 I’m interested in Data Analysis and Graphic design
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in Data Analysis, Mobile Development and  Graphic design
+- 🌱 I’m currently learning Data analysis and Software Engineering
 - 📫 How to reach me: linkedin.com/in/nickey-ombasa
 - 😄 Pronouns: He/Him
 
